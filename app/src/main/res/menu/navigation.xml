@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_task_center"
+        android:icon="@drawable/ic_task_center"
+        android:title="@string/title_task_center"/>
+
+    <item
+        android:id="@+id/navigation_my_task"
+        android:icon="@drawable/ic_task"
+        android:title="@string/my_task"/>
+
+    <item
+        android:id="@+id/navigation_user"
+        android:icon="@drawable/ic_user"
+        android:title="@string/title_user"/>
+
+</menu>
